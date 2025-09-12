@@ -74,6 +74,28 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "MhuQgbCEd",
+      "uuid": "61fcc265-2d2a-41d6-bafc-dc3978459b11",
+      "firstName": "Jao",
+      "lastName": "Filho",
+      "username": "jfilho",
+      "password": "$2a$10$GlhVFcXC71McGbJUZ9cAg.oKFS0yGLUTQDY1ITiqrs3SMYbrXJw76",
+      "balance": 15111200,
+      "createdAt": "2025-09-12T06:36:51.154Z",
+      "modifiedAt": "2025-09-12T06:36:51.154Z"
+    },
+    {
+      "id": "osItW9Kg0",
+      "uuid": "20be84d7-466e-4a47-87a6-e61bb42b24fd",
+      "firstName": "Silvio",
+      "lastName": "Filho",
+      "username": "sfilho",
+      "password": "$2a$10$B2Fbh6h5UECKT1LDoqN0PO7DVInEazWGSFBH8WHK4Ypca1PnYz2l.",
+      "balance": 0,
+      "createdAt": "2025-09-12T06:37:11.189Z",
+      "modifiedAt": "2025-09-12T06:37:11.189Z"
     }
   ],
   "contacts": [
@@ -253,6 +275,28 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "0b-16nwPH",
+      "uuid": "30cfb1c2-498c-4c10-a9a4-07cf33e23dfe",
+      "userId": "MhuQgbCEd",
+      "bankName": "Nu Banks",
+      "accountNumber": "1020304050",
+      "routingNumber": "000100023",
+      "isDeleted": false,
+      "createdAt": "2025-09-12T06:39:46.579Z",
+      "modifiedAt": "2025-09-12T06:39:46.579Z"
+    },
+    {
+      "id": "Lp-nfyB-Y",
+      "uuid": "eeb9ddc3-79e6-48db-aafc-14fb9b2cfbe7",
+      "userId": "osItW9Kg0",
+      "bankName": "BB Brasil",
+      "accountNumber": "222222222",
+      "routingNumber": "100000000",
+      "isDeleted": false,
+      "createdAt": "2025-09-12T06:41:37.076Z",
+      "modifiedAt": "2025-09-12T06:41:37.076Z"
     }
   ],
   "transactions": [
@@ -9855,6 +9899,72 @@
       "requestResolvedAt": "",
       "createdAt": "2023-11-10T07:15:28.127Z",
       "modifiedAt": "2024-03-07T21:58:09.668Z"
+    },
+    {
+      "id": "EGJrjI0xh",
+      "uuid": "b9dadf0b-db92-4bbc-8be2-5a0ee6f83806",
+      "amount": 1000000,
+      "description": "Seu Dinheiro Rapido",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T06:50:27.123Z",
+      "modifiedAt": "2025-09-12T06:50:27.123Z"
+    },
+    {
+      "id": "oAg6DuaXv",
+      "uuid": "8e6dd4ee-9978-4f45-b4e1-3a2c58aa4af8",
+      "amount": 1000000,
+      "description": "Seu Dinheiro Rapido",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T06:52:33.835Z",
+      "modifiedAt": "2025-09-12T06:52:33.835Z"
+    },
+    {
+      "id": "irO9oWN6r",
+      "uuid": "e8b55f67-ec6d-4fa4-a8cc-08b8faeb51b9",
+      "amount": 11111100,
+      "description": "adasdas",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T06:53:54.829Z",
+      "modifiedAt": "2025-09-12T06:53:54.829Z"
+    },
+    {
+      "id": "jSWa-mpmA",
+      "uuid": "f02c8dcc-4185-4f56-a94b-356758b72342",
+      "amount": 1000000,
+      "description": "Seu Dinheiro Rapido",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T06:56:19.761Z",
+      "modifiedAt": "2025-09-12T06:56:19.761Z"
+    },
+    {
+      "id": "rhNKoMQXp",
+      "uuid": "699ecfe5-1061-4706-919e-ddff5b505153",
+      "amount": 1000000,
+      "description": "Seu Dinheiro Rapido",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T06:58:16.772Z",
+      "modifiedAt": "2025-09-12T06:58:16.772Z"
+    },
+    {
+      "id": "nyQVvlgCJ",
+      "uuid": "d102fea2-4b7d-45bf-821e-aa25cd500fbc",
+      "amount": 100,
+      "description": "aa",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T06:58:49.775Z",
+      "modifiedAt": "2025-09-12T06:58:49.775Z"
     }
   ],
   "likes": [
@@ -10431,6 +10541,66 @@
       "isRead": false,
       "createdAt": "2024-02-01T18:53:45.699Z",
       "modifiedAt": "2024-03-07T17:13:52.110Z"
+    },
+    {
+      "id": "5LqHlmmces",
+      "uuid": "7ecbcbb3-28cd-45e8-bdc0-1d868b9a1f94",
+      "userId": "MhuQgbCEd",
+      "transactionId": "EGJrjI0xh",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T06:50:27.134Z",
+      "modifiedAt": "2025-09-12T06:50:27.134Z"
+    },
+    {
+      "id": "VjD0ba_1J2",
+      "uuid": "d18d2638-f9d3-4cce-b6d9-2bae58f70752",
+      "userId": "MhuQgbCEd",
+      "transactionId": "oAg6DuaXv",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T06:52:33.844Z",
+      "modifiedAt": "2025-09-12T06:52:33.844Z"
+    },
+    {
+      "id": "tnev8ZEUXI",
+      "uuid": "21697f89-6b80-436b-998c-cb203556b3ed",
+      "userId": "MhuQgbCEd",
+      "transactionId": "irO9oWN6r",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T06:53:54.843Z",
+      "modifiedAt": "2025-09-12T06:53:54.843Z"
+    },
+    {
+      "id": "WhGqjiLcVD",
+      "uuid": "7d76d43e-581f-48d8-819d-ec5732b9d39d",
+      "userId": "MhuQgbCEd",
+      "transactionId": "jSWa-mpmA",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T06:56:19.771Z",
+      "modifiedAt": "2025-09-12T06:56:19.771Z"
+    },
+    {
+      "id": "nLtMJzXCVf",
+      "uuid": "cc97c4ca-bbf8-436e-82d7-3e6163135955",
+      "userId": "MhuQgbCEd",
+      "transactionId": "rhNKoMQXp",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T06:58:16.781Z",
+      "modifiedAt": "2025-09-12T06:58:16.781Z"
+    },
+    {
+      "id": "Bzrlw6LM0A",
+      "uuid": "9d1555d1-577b-4a0f-a5ef-15a0599c43d7",
+      "userId": "MhuQgbCEd",
+      "transactionId": "nyQVvlgCJ",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T06:58:49.785Z",
+      "modifiedAt": "2025-09-12T06:58:49.785Z"
     }
   ],
   "banktransfers": [
@@ -10983,6 +11153,66 @@
       "transactionId": "gaggAe7wNoiC",
       "createdAt": "2023-03-24T22:18:19.407Z",
       "modifiedAt": "2024-03-07T13:32:42.472Z"
+    },
+    {
+      "id": "kx2M4w15qd",
+      "uuid": "67e55a4b-aaa3-48f8-acfb-5d89c3e3349f",
+      "userId": "osItW9Kg0",
+      "amount": 1000000,
+      "transactionId": "EGJrjI0xh",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T06:50:27.126Z",
+      "modifiedAt": "2025-09-12T06:50:27.126Z"
+    },
+    {
+      "id": "8tBvzTPCfS",
+      "uuid": "32104c0c-53a3-4bd1-8fe7-b2748b5d1204",
+      "userId": "osItW9Kg0",
+      "amount": 1000000,
+      "transactionId": "oAg6DuaXv",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T06:52:33.837Z",
+      "modifiedAt": "2025-09-12T06:52:33.837Z"
+    },
+    {
+      "id": "ByiACA_R7N",
+      "uuid": "69c0df29-f0a5-4954-a64d-a090fc881a7a",
+      "userId": "osItW9Kg0",
+      "amount": 11111100,
+      "transactionId": "irO9oWN6r",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T06:53:54.834Z",
+      "modifiedAt": "2025-09-12T06:53:54.834Z"
+    },
+    {
+      "id": "injQvUfLDN",
+      "uuid": "7c0cf07a-359c-4718-be5a-6ce1f2cac9ab",
+      "userId": "osItW9Kg0",
+      "amount": 1000000,
+      "transactionId": "jSWa-mpmA",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T06:56:19.763Z",
+      "modifiedAt": "2025-09-12T06:56:19.763Z"
+    },
+    {
+      "id": "0AnFRN77Ig",
+      "uuid": "c6abb238-34ec-4c1c-818f-6748354d09c8",
+      "userId": "osItW9Kg0",
+      "amount": 1000000,
+      "transactionId": "rhNKoMQXp",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T06:58:16.775Z",
+      "modifiedAt": "2025-09-12T06:58:16.775Z"
+    },
+    {
+      "id": "UwPgdcRq93",
+      "uuid": "924f7870-3cd3-445e-ade0-3103ef31bc66",
+      "userId": "osItW9Kg0",
+      "amount": 100,
+      "transactionId": "nyQVvlgCJ",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T06:58:49.777Z",
+      "modifiedAt": "2025-09-12T06:58:49.777Z"
     }
   ]
 }

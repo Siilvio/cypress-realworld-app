@@ -1,0 +1,14 @@
+
+{
+    "dadosUserSucess" : {
+        "user" : "sfilho",
+        "password" : "123456"
+    },
+
+    "dadosUserFail" : {
+        "user" : "jfilho",
+        "password" : "010101"
+    }
+
+}
+
