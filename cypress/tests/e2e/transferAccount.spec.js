@@ -17,9 +17,9 @@ describe('Enviar dinheiro com saldo suficiente', () => {
     cy.get('[data-test="alert-bar-success"]').should('be.visible')
   });
 
-  it('Deve exibir mensagem de erro ao enviar dinheiro sem saldo suficiente', () => {
+  // it('Deve exibir mensagem de erro ao enviar dinheiro sem saldo suficiente', () => {
     
-  });
+  // });
 
 
 });

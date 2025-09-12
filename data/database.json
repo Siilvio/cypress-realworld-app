@@ -82,7 +82,7 @@
       "lastName": "Filho",
       "username": "jfilho",
       "password": "$2a$10$GlhVFcXC71McGbJUZ9cAg.oKFS0yGLUTQDY1ITiqrs3SMYbrXJw76",
-      "balance": 15111200,
+      "balance": 18111200,
       "createdAt": "2025-09-12T06:36:51.154Z",
       "modifiedAt": "2025-09-12T06:36:51.154Z"
     },
@@ -9965,6 +9965,39 @@
       "status": "complete",
       "createdAt": "2025-09-12T06:58:49.775Z",
       "modifiedAt": "2025-09-12T06:58:49.775Z"
+    },
+    {
+      "id": "NnycDr1TZ",
+      "uuid": "9d80afb0-6da3-4c9c-8a03-5956c6926cf3",
+      "amount": 1000000,
+      "description": "Seu Dinheiro Rapido",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T08:08:13.218Z",
+      "modifiedAt": "2025-09-12T08:08:13.218Z"
+    },
+    {
+      "id": "AgTIwXPDM",
+      "uuid": "8f58c3b6-d11a-4583-96c3-527c31a6d3b8",
+      "amount": 1000000,
+      "description": "Seu Dinheiro Rapido",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T08:08:23.897Z",
+      "modifiedAt": "2025-09-12T08:08:23.897Z"
+    },
+    {
+      "id": "hwAiBsIRG",
+      "uuid": "85f2e553-a1dd-41bf-83a4-2f1f29b9b937",
+      "amount": 1000000,
+      "description": "Seu Dinheiro Rapido",
+      "receiverId": "MhuQgbCEd",
+      "senderId": "osItW9Kg0",
+      "status": "complete",
+      "createdAt": "2025-09-12T08:15:35.130Z",
+      "modifiedAt": "2025-09-12T08:15:35.130Z"
     }
   ],
   "likes": [
@@ -10601,6 +10634,36 @@
       "isRead": false,
       "createdAt": "2025-09-12T06:58:49.785Z",
       "modifiedAt": "2025-09-12T06:58:49.785Z"
+    },
+    {
+      "id": "-_74OL_Ozy",
+      "uuid": "baa42f91-6056-4542-af39-277d6b703569",
+      "userId": "MhuQgbCEd",
+      "transactionId": "NnycDr1TZ",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T08:08:13.228Z",
+      "modifiedAt": "2025-09-12T08:08:13.228Z"
+    },
+    {
+      "id": "CF5A8jHGpO",
+      "uuid": "96f75e91-8d4f-46de-93c2-043114760818",
+      "userId": "MhuQgbCEd",
+      "transactionId": "AgTIwXPDM",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T08:08:23.907Z",
+      "modifiedAt": "2025-09-12T08:08:23.907Z"
+    },
+    {
+      "id": "q4sCseysSL",
+      "uuid": "5877f4f4-b82d-4779-8957-90669969c911",
+      "userId": "MhuQgbCEd",
+      "transactionId": "hwAiBsIRG",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-09-12T08:15:35.141Z",
+      "modifiedAt": "2025-09-12T08:15:35.141Z"
     }
   ],
   "banktransfers": [
@@ -11213,6 +11276,36 @@
       "type": "withdrawal",
       "createdAt": "2025-09-12T06:58:49.777Z",
       "modifiedAt": "2025-09-12T06:58:49.777Z"
+    },
+    {
+      "id": "D69fKeyacc",
+      "uuid": "419fb0f4-4ccf-4f58-8254-9367756a0c02",
+      "userId": "osItW9Kg0",
+      "amount": 1000000,
+      "transactionId": "NnycDr1TZ",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T08:08:13.220Z",
+      "modifiedAt": "2025-09-12T08:08:13.220Z"
+    },
+    {
+      "id": "FpQuaortih",
+      "uuid": "2de78cc2-5f05-4b00-894b-6ceb6e2680c2",
+      "userId": "osItW9Kg0",
+      "amount": 1000000,
+      "transactionId": "AgTIwXPDM",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T08:08:23.898Z",
+      "modifiedAt": "2025-09-12T08:08:23.898Z"
+    },
+    {
+      "id": "2hyAPBm2qo",
+      "uuid": "9b282208-c1a6-4e5e-a39c-b9297cfcf18e",
+      "userId": "osItW9Kg0",
+      "amount": 1000000,
+      "transactionId": "hwAiBsIRG",
+      "type": "withdrawal",
+      "createdAt": "2025-09-12T08:15:35.132Z",
+      "modifiedAt": "2025-09-12T08:15:35.132Z"
     }
   ]
 }
